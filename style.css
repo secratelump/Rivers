@@ -1,0 +1,23 @@
+html{
+    background-color: #2F5D62;
+    
+}
+h1{
+    color: #5E8B7E;
+    
+}
+p{
+    color: #A7C4BC;
+}
+l{
+    color:#DFEEEA ;
+}
+
+*{
+    text-align: center;
+    
+}
+
+footer{
+    border: 35px solid #083838;
+}
